@@ -1,0 +1,96 @@
+.whole{
+	display:flex;
+	max-width:1000px;
+	margin:auto;
+	margin-top:100px;
+}
+h1{
+	color:blue;
+	font-size:30px;
+}
+.semo{
+	color:black;
+	font-size:25px;
+}
+.form1{
+	border:2px solid white;
+	padding:45px;
+	margin: 15px;
+	background-color:white;
+	border-radius:30px;
+	border:none;
+
+}
+body{
+	background-color:aliceblue;
+}
+.log1{
+	text-align:center;
+	background-color:blue;
+	color:white;
+	border-radius:5px;
+	border:none;
+/*	margin:15px;*/
+	padding:10px;
+	width: 100%;
+
+}
+.loga{
+	width: 100%;
+	padding:10px;
+	color:white;
+	background-color:blue;
+	border-radius:5px;
+	border: none;
+}
+.amala{
+	color:blue;
+	text-align:center;
+}
+
+
+
+
+
+input{
+	padding:10px;
+	margin: 10px;
+	border-bottom:2px solid grey;
+	border-top:none;
+	border-right:none;
+	border-left:none;
+	width:100%;
+	border-radius:5px;
+	font-size:18px;
+}
+
+.create{
+	text-align:center;
+	background-color:green;
+	border-radius:4px;
+	padding-top: 10px;
+	padding-bottom:10px;
+/*	size: 20;*/
+
+}
+.logb{
+	text-align:center;
+	background-color:green;
+	color:white;
+	border:none;
+}
+input:hover{
+ background-color:blue;
+}
+.loga:hover{
+	background-color: white;
+}
+.amala:hover{
+	background-color:red;
+}
+.logb:hover{
+	background-color:red;
+}
+p{
+	text-align: center;
+}
